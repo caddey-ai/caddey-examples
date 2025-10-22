@@ -1,0 +1,7 @@
+langchain>=1.0
+langchain-mcp-adapters
+langchain-openai
+requests
+python-dotenv
+rich
+
